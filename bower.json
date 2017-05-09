@@ -1,0 +1,25 @@
+{
+  "name": "Web-app L10N Tool",
+  "authors": [
+    "Jong Ho Lee <j.lee@columbia.edu>"
+  ],
+  "description": "L10N Tool for web applications",
+  "main": "main.js",
+  "keywords": [
+    "l10n",
+    "translation"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.2.1"
+  }
+}
